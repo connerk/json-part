@@ -1,0 +1,29 @@
+{
+  "name": "json-part",
+  "version": "0.0.0",
+  "description": "Azure Function that takes a REST GET and returns a sub-object. useful for microcontrollers with limited RAM",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connerk/json-part.git"
+  },
+  "keywords": [
+    "REST",
+    "API",
+    "Particle",
+    "Arduino"
+  ],
+  "author": "Kevin Conner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/connerk/json-part/issues"
+  },
+  "homepage": "https://github.com/connerk/json-part#readme"
+}
